@@ -50,7 +50,7 @@ Como se trabajará con configuraciones orientadas al empleo de CUDA, seguir las 
 Puede clonarse el repositorio en una máquina local y acceder, por ejemplo, al módulo 2 (empleando clave SSH en distintos SO, ver generación [aquí](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) y su incorporación [aquí](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)):
 ```
     git clone git@github.com:FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN.git
-    cd ‘modulo 2 - repaso física matemática’
+    cd ‘modulo 2 - repaso fisica matematica’
 ```
 
 
