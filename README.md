@@ -2,7 +2,7 @@
 
 Bienvenidos al repositorio de ejercicios del curso "Redes neuronales informadas por física". El material presentado está vinculado al material didáctico presente en el [campus académico del curso](https://campusposgrado.fi.uba.ar/course/view.php?id=390).
 
-## Requerimeintos y configuraciones
+## Requerimientos y configuraciones
 
 #### Colab Cloud
 Toas las prácticas pueden ejecutarse a través de [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb). Colab es la plataforma basada en la nube que permite escribir y ejecutar código desarrollado en Python en un entorno web. Proporciona acceso a recursos de computación, incluidos GPUs. No se requiere instalación, ya que todo se ejecuta en un navegador web. Se instalan bibliotecas adicionales según sea necesario.
