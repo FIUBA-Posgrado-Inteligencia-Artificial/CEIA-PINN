@@ -41,7 +41,7 @@ Documentación para descarga:
 - [CUDA](https://developer.nvidia.com/cuda-downloads) (en el caso de Windows, ver también la siguiente sección).
 - [ROCm (Linux)](https://rocm.docs.amd.com/en/latest/); [ROCm (Windows)](https://rocm.docs.amd.com/projects/install-on-windows/en/latest/)
 
-#### Windows systems for Linux
+#### Windows subsystems for Linux
 Muchos de las herramientas necesarias para desarrollar modelos PINN, fueron concebidas en Linux, por lo que en ciertos casos resulta más oficiente trabajar en dicho SO. Puede ocurrir que se cuente con Windows como sistema operativo nativo y no sea posible migrar a Linux. En ese caso, se puede emplear [_Windows systems for linux_](https://learn.microsoft.com/es-es/windows/wsl/) (WSL). Se trata de una característica de Windows que permite ejecutar un entorno Linux en la máquina Windows, sin necesidad de una máquina virtual independiente ni de arranque dual. Además, es posible programar con [Visual Studio Code](https://code.visualstudio.com/) desde Windows, conextándose al entorno de WSL. 
 
 Como se trabajará con configuraciones orientadas al empleo de CUDA, seguir las instrucciones de instalación especificadas [aquí](https://learn.microsoft.com/en-us/windows/ai/directml/gpu-cuda-in-wsl).   
