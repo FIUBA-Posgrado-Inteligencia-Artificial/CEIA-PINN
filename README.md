@@ -2,7 +2,9 @@
 
 Bienvenidos al repositorio de material didáctico y académico del curso "Redes neuronales informadas por física".
 
-Estos contenidos también podrán encontrarlo en  podrán encontrarla en el [campus académico del curso](https://campusposgrado.fi.uba.ar/course/view.php?id=390), junto con la información relacionada a la planificación de la cursada y canales de comunicación.
+Las "redes neuronales informadas por física",  también conocidas por su acrónimo en inglés PINN (Physics-informed neural networks) son modelos de Deep Learning diseñados para resolver problemas científico-tecnológicos que se describen mediante ecuaciones diferenciales, integrando principios físicos fundamentales. A diferencia de los modelos de deep learning estándar, las PINN restringen el espacio de respuesta para que las soluciones a aquellas cumplan con estos principios físicos.
+
+Estos contenidos también podrán encontrarlos en el [campus académico del curso](https://campusposgrado.fi.uba.ar/course/view.php?id=390), junto con la información relacionada a la planificación de la cursada y canales de comunicación.
 
 ## Organización de la información
 
