@@ -12,9 +12,7 @@ Aquí encontraran todo el material didactico utilizado durante la cursada. Se ha
 
 - [3er bimestre 2025](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/tree/3b2025).
 
-En el repositorio se alojan las presentaciones y prácticas de cada módulo del curso. 
-
-También se encuentran los temas propuestos para realizar el trabajo integrador. El objetivo es trabajar en un caso que les permita introducirse en los temas vistos durante el curso, explorando las herramientas disponibles y detectando las dificultades que pueden presentarse en la temática de las Redes neuronales informadas por la física. Este trabajo les permitirá aplicar los conceptos aprendidos, identificar posibles desafíos y desarrollar habilidades prácticas que serán fundamentales para su comprensión y manejo de las PINN.
+En el repositorio se alojan las presentaciones y prácticas de cada módulo del curso.
 
 ## Requerimientos y configuraciones
 
