@@ -4,7 +4,7 @@ Aquí se encuentra alojado el material didáctico empleado durante la cursada.
 
 ## Módulos
 
-- Módulo 1: Presentación de Scientific Machine Learning (SciML). Modelado y simulación en ingeniería. Entrenamiento vs. optimización. Algoritmos y estrategias de entrenamiento.
+- [Módulo 1](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/tree/3b2025/modulo%201): Presentación de Scientific Machine Learning (SciML). Modelado y simulación en ingeniería. Entrenamiento vs. optimización. Algoritmos y estrategias de entrenamiento.
 
 - Módulo 2: Fundamentos teóricos de PINN. Cómputo de las derivadas presentes en las ED mediante el método de autodiferenciación. Construcción de funciones de pérdida en base a los residuos de las ED.
 
