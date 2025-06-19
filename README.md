@@ -12,7 +12,7 @@ Aquí encontraran todo el material didactico utilizado durante la cursada. Se ha
 
 - [3er bimestre 2025](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/tree/3b2025).
 
-En el repositorio se alojan las presentaciones y prácticas de cada módulo del curso.
+En el repositorio se alojan las presentaciones y prácticas de cada módulo del curso. También las consignas de los trabajos prácticos.  
 
 ## Requerimientos y configuraciones
 
