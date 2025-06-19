@@ -17,3 +17,9 @@ Aquí se encuentra alojado el material didáctico empleado durante la cursada.
 - Módulo 6: Aproximación de operadores diferenciales mediante operadores neuronales: DeepONet, FNO, PINO.
   
 - Módulo 7: Tópicos avanzados: resolución de problemas transientes mediante métodos específicos; descomposición de dominio vía cPINN y XPINN; solución sobre geometrías complejas. Revisión del estado del arte.
+
+## Trabajos prácticos
+
+Los trabajos prácticos a realizar durante la cursada giran en torno a un caso testigo. Consisten en actividades que les permita introducirse en los temas vistos durante el curso., explorando las herramientas disponibles y detectando las dificultades que pueden presentarse en la temática de las redes neuronales informadas por la física. Les permitirá aplicar los conceptos aprendidos, identificar posibles desafíos y desarrollar habilidades prácticas que serán fundamentales para su comprensión y manejo de las PINN.
+
+Cada semana se presentará un nuevo trabajo práctico,  que pretende abordar parte de la temática PINN, de acuerdo a la descripción de un caso particular de aplicación en ingeniería junto a las características del dataset (acceso próximamente). El objetivo es contar al final del curso con un trabajo que integre un proceso completo de desarrollo de un modelado mediante PINN.  
