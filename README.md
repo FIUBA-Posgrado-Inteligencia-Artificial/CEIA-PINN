@@ -1,12 +1,12 @@
 # Material didáctico del curso "Redes neuronales informadas por física" 3er bimestre 2025
 
-Aquí se encuentra alojado el material didáctico empleado durante la cursada.
+[Aquí] se encuentra alojado el material didáctico empleado durante la cursada.
 
 ## Módulos
 
 - [Módulo 1](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/tree/3b2025/modulo%201): Presentación de Scientific Machine Learning (SciML). Modelado y simulación en ingeniería. Entrenamiento vs. optimización. Algoritmos y estrategias de entrenamiento.
 
-- Módulo 2: Fundamentos teóricos de PINN. Cómputo de las derivadas presentes en las ED mediante el método de autodiferenciación. Construcción de funciones de pérdida en base a los residuos de las ED.
+- [Módulo 2](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/tree/3b2025/modulo%202): Fundamentos teóricos de PINN. Cómputo de las derivadas presentes en las ED mediante el método de autodiferenciación. Construcción de funciones de pérdida en base a los residuos de las ED.
 
 - Módulo 3: Implementación algorítmica básica de problemas directos.
 
@@ -22,4 +22,4 @@ Aquí se encuentra alojado el material didáctico empleado durante la cursada.
 
 Los trabajos prácticos a realizar durante la cursada giran en torno a un caso testigo. Consisten en actividades que les permita introducirse en los temas vistos durante el curso., explorando las herramientas disponibles y detectando las dificultades que pueden presentarse en la temática de las redes neuronales informadas por la física. Les permitirá aplicar los conceptos aprendidos, identificar posibles desafíos y desarrollar habilidades prácticas que serán fundamentales para su comprensión y manejo de las PINN.
 
-Cada semana se presentará un nuevo trabajo práctico,  que pretende abordar parte de la temática PINN, de acuerdo a la descripción de un caso particular de aplicación en ingeniería (acceso aquí) junto a las características del dataset (acceso aquí). El objetivo es contar al final del curso con un trabajo que integre un proceso completo de desarrollo de un modelado mediante PINN.  
+Cada semana se presentará un nuevo trabajo práctico,  que pretende abordar parte de la temática PINN, de acuerdo a la descripción de un caso particular de aplicación en ingeniería (acceso [aquí](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/blob/3b2025/TP/TP_3B2025.pdf)) junto a las características del dataset (acceso [aquí](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/tree/3b2025/TP/Re-100)). El objetivo es contar al final del curso con un trabajo que integre un proceso completo de desarrollo de un modelado mediante PINN.  
