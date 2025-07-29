@@ -12,7 +12,7 @@
 
 - Módulo 4: Repaso de principales estrategias de mejora del desempeño de PINN: implementaciones soft y hard de condiciones de borde Dirichlet y condiciones iniciales; estrategias de muestreo adaptativas de puntos de colocación como importance sampling y residual-based sampling; implementación gradient-enhanced; etc. Continuamos con la presentación del [módulo 3](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/tree/3b2025/modulo%203).
 
-- Módulo 5: Planteo de problemas inversos de estimación de parámetros de ED a partir de datos. Solución mediante PINN. Implementación algorítmica.
+- [Módulo 5](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/tree/3b2025/modulo%205): Planteo de problemas inversos de estimación de parámetros de ED a partir de datos. Solución mediante PINN. Implementación algorítmica.
 
 - Módulo 6: Aproximación de operadores diferenciales mediante operadores neuronales: DeepONet, FNO, PINO.
   
