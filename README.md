@@ -14,7 +14,7 @@
 
 - [Módulo 5](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/tree/3b2025/modulo%205): Planteo de problemas inversos de estimación de parámetros de ED a partir de datos. Solución mediante PINN. Implementación algorítmica.
 
-- Módulo 6: Aproximación de operadores diferenciales mediante operadores neuronales: DeepONet, FNO, PINO.
+- [Módulo 6](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/tree/3b2025/modulo%206): Aproximación de operadores diferenciales mediante operadores neuronales: DeepONet, FNO, PINO.
   
 - Módulo 7: Tópicos avanzados: resolución de problemas transientes mediante métodos específicos; descomposición de dominio vía cPINN y XPINN; solución sobre geometrías complejas. Revisión del estado del arte.
 
