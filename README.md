@@ -4,19 +4,21 @@
 
 ## Módulos
 
-- [Módulo 1](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/tree/3b2025/modulo%201): Presentación de Scientific Machine Learning (SciML). Modelado y simulación en ingeniería. Entrenamiento vs. optimización. Algoritmos y estrategias de entrenamiento.
+- [Módulo 1](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/tree/3b2025/modulo%201): presentación de Scientific Machine Learning (SciML). Modelado y simulación en ingeniería. Entrenamiento vs. optimización. Algoritmos y estrategias de entrenamiento.
 
-- [Módulo 2](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/tree/3b2025/modulo%202): Fundamentos teóricos de PINN. Cómputo de las derivadas presentes en las ED mediante el método de autodiferenciación. Construcción de funciones de pérdida en base a los residuos de las ED.
+- [Módulo 2](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/tree/3b2025/modulo%202): fundamentos teóricos de PINN. Cómputo de las derivadas presentes en las ED mediante el método de autodiferenciación. Construcción de funciones de pérdida en base a los residuos de las ED.
 
 - [Módulo 3](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/tree/3b2025/modulo%203): Implementación algorítmica básica de problemas directos.
 
-- Módulo 4: Repaso de principales estrategias de mejora del desempeño de PINN: implementaciones soft y hard de condiciones de borde Dirichlet y condiciones iniciales; estrategias de muestreo adaptativas de puntos de colocación como importance sampling y residual-based sampling; implementación gradient-enhanced; etc. Continuamos con la presentación del [módulo 3](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/tree/3b2025/modulo%203).
+- Módulo 4: repaso de principales estrategias de mejora del desempeño de PINN: implementaciones soft y hard de condiciones de borde Dirichlet y condiciones iniciales; estrategias de muestreo adaptativas de puntos de colocación como importance sampling y residual-based sampling; implementación gradient-enhanced; etc. Continuamos con la presentación del [módulo 3](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/tree/3b2025/modulo%203).
 
-- [Módulo 5](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/tree/3b2025/modulo%205): Planteo de problemas inversos de estimación de parámetros de ED a partir de datos. Solución mediante PINN. Implementación algorítmica.
+- [Módulo 5](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/tree/3b2025/modulo%205): planteo de problemas inversos de estimación de parámetros de ED a partir de datos. Solución mediante PINN. Implementación algorítmica.
 
-- [Módulo 6](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/tree/3b2025/modulo%206): Aproximación de operadores diferenciales mediante operadores neuronales: DeepONet, FNO, PINO.
+- [Módulo 6](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/tree/3b2025/modulo%206): aproximación de operadores diferenciales mediante operadores neuronales tipo DeepONet.
+
+- Módulo 7: aproximación de operadores diferenciales mediante operadores neuronales tipo FNO y PINO.  
   
-- Módulo 7: Tópicos avanzados: resolución de problemas transientes mediante métodos específicos; descomposición de dominio vía cPINN y XPINN; solución sobre geometrías complejas. Revisión del estado del arte.
+- Módulo 8: resolución de problemas transientes mediante métodos específicos; descomposición de dominio vía cPINN y XPINN; solución sobre geometrías complejas. Revisión del estado del arte.
 
 ## Trabajos prácticos
 
