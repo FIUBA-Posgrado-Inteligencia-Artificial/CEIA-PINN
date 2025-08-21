@@ -16,9 +16,9 @@
 
 - [Módulo 6](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/tree/3b2025/modulo%206): aproximación de operadores diferenciales mediante operadores neuronales tipo DeepONet.
 
-- Módulo 7: aproximación de operadores diferenciales mediante operadores neuronales tipo FNO y PINO.  
+- [Módulo 7](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/tree/3b2025/modulo%207): aproximación de operadores diferenciales mediante operadores neuronales tipo FNO y PINO.  
   
-- Módulo 8: resolución de problemas transientes mediante métodos específicos; descomposición de dominio vía cPINN y XPINN; solución sobre geometrías complejas. Revisión del estado del arte.
+- [Módulo 8](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/tree/3b2025/modulo%208): resolución de problemas transientes mediante métodos específicos; descomposición de dominio vía cPINN y XPINN; solución sobre geometrías complejas. Revisión del estado del arte.
 
 ## Trabajos prácticos
 
