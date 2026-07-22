@@ -2,15 +2,16 @@
 
 Bienvenidos al repositorio de material didáctico y académico del curso "Redes neuronales informadas por física".
 
-Las "redes neuronales informadas por física",  también conocidas por su acrónimo en inglés PINN (Physics-informed neural networks) son modelos de Deep Learning diseñados para resolver problemas científico-tecnológicos que se describen mediante ecuaciones diferenciales, integrando principios físicos fundamentales. A diferencia de los modelos de deep learning estándar, las PINN restringen el espacio de respuesta para que las soluciones a aquellas cumplan con estos principios físicos.
+Las "redes neuronales informadas por física", también conocidas por su acrónimo en inglés PINN (Physics-informed neural networks) son modelos de Deep Learning diseñados para resolver problemas científico-tecnológicos que se describen mediante ecuaciones diferenciales, integrando principios físicos fundamentales. A diferencia de los modelos de deep learning estándar, las PINN restringen el espacio de respuesta para que las soluciones a aquellas cumplan con estos principios físicos.
 
-Estos contenidos también podrán encontrarlos en el [campus académico del curso](https://campusposgrado.fi.uba.ar/course/view.php?id=390), junto con la información relacionada a la planificación de la cursada y canales de comunicación.
+Estos contenidos también podrán encontrarlos en el [campus virtual del curso](https://campusposgrado.fi.uba.ar/course/view.php?id=390), junto con la información relacionada a la planificación de la cursada y canales de comunicación.
 
 ## Organización de la información
 
 Aquí encontraran todo el material didactico utilizado durante la cursada. Se habilita una nueva rama por cursada para dejar registro de actualizaciones. Registro de cursadas:
 
 - [3er bimestre 2025](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/tree/3b2025).
+- [3er bimestre 2026](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA-PINN/tree/3b2026).
 
 En el repositorio se alojan las presentaciones y prácticas de cada módulo del curso. También las consignas de los trabajos prácticos.  
 
